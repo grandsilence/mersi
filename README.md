@@ -11,8 +11,8 @@ And Soda Theme by Ian Hill - [http://buymeasoda.com/](http://buymeasoda.com/)
 
 ## Design
 
-![Mersi Theme - Backend](https://raw.github.com/grandsilence/Mersi/master/images/mersi_backend.png)
-![Mersi Theme - Frontend](https://raw.github.com/grandsilence/Mersi/master/images/mersi_frontend.png)
+![Mersi Theme - Backend](https://raw.githubusercontent.com/grandsilence/mersi/master/images/mersi_backend.jpg)
+![Mersi Theme - Frontend](https://raw.githubusercontent.com/grandsilence/mersi/master/images/mersi_frontend.jpg)
 
 * Color Scheme created on website "Sublime Scheme Editor"
 * File Type Icons based on Seti_UI - [https://github.com/ctf0/Seti_ST3](https://github.com/ctf0/Seti_ST3)
