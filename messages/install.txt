@@ -1,0 +1,36 @@
+# Mersi Theme
+
+# Recommendations
+* Use font for code "Inconsolata LGC" - [https://github.com/DeLaGuardo/Inconsolata-LGC](https://github.com/DeLaGuardo/Inconsolata-LGC)
+* Install plug-in "BracketHighlighter" (available in Package Control)
+
+
+# Installation
+To configure Sublime Text to use the theme, follow the instructions.
+
+* Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
+* Add (or update) your theme entry to be `"theme": "Mersi.sublime-theme",
+"color_scheme": "Packages/Theme - Mersi/Mersi.tmTheme"`
+
+**Example Sublime Text User Settings**
+
+    {
+        "theme": "Mersi.sublime-theme",
+		"color_scheme": "Packages/Theme - Mersi/Mersi.tmTheme",
+		"font_face": "Inconsolata LGC",
+		"enable_tab_scrolling": false,
+		// Additional functions
+		// For Windows only, better smooth font
+		"font_options":
+		[
+			"directwrite"
+		],
+		"always_show_minimap_viewport": true,
+		"draw_shadows": false,
+		"highlight_line": true,
+    }
+
+#### Credits
+---------------
+* Mersi Theme created by Grand Silence
+** File Type Icons based on Seti_UI - https://github.com/ctf0/Seti_ST3
