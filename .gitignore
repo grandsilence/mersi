@@ -212,8 +212,9 @@ pip-log.txt
 #Translations
 *.mo
 
-#Mr Developer
-.mr.developer.cfg
-
 #Sublime Text
 .cache
+
+#Sublime Text Repo
+.pyc
+package-metadata.json
