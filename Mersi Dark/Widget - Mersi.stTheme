@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Samuel Rafo</string>
+	<string>Grand Silence</string>
 	<key>comment</key>
-	<string>A widget theme for the UI components of the Piatto Dark theme.</string>
+	<string>A widget theme for the UI components of the Mersi theme.</string>
 	<key>name</key>
-	<string>Piatto Dark - Widget Theme</string>
+	<string>Mersi - Widget Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
